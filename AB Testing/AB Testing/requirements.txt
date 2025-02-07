@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+functions  # If custom, ensure it's available in the environment or remove if not needed.
+utilities  # Same as above, ensure availability or remove.
